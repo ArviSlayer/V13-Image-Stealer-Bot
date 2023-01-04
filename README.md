@@ -1,11 +1,11 @@
 # 🤖・Bota BİLEREK 4 Farklı Hata Bırakıldı
-⭐・4 Hatayıda Çözüp Botu Başlatabilirsiniz
+⭐・**4 Hatayıda Çözüp Botu Başlatabilirsiniz**
 # 
 
 # 📝・ÖZELLİKLERİ
-🎄・Full Ayarlamalı (Dil - Prefix) vs.
+🎄・**Full Ayarlamalı (Dil - Prefix) vs.**
 
-🎄・Desteklenen Diller: (Fransıca - Almanca - İngilizce - Türkçe)
+🎄・**Desteklenen Diller: (Fransıca - Almanca - İngilizce - Türkçe)**
 #
 
 # 📞・İLETİŞİM
