@@ -4,7 +4,9 @@
 
 # 📝・ÖZELLİKLERİ
 🎄・Full Ayarlamalı (Dil - Prefix) vs.
+
 🎄・Desteklenen Diller: (Fransıca - Almanca - İngilizce - Türkçe)
+#
 
 # 📞・İLETİŞİM
 💙・**Discord:** ArviS#0011
