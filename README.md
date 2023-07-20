@@ -1,19 +1,29 @@
 # 🤖・Bota BİLEREK 4 Farklı Hata Bırakıldı
 ⭐・**4 Hatayıda Çözüp Botu Başlatabilirsiniz**
 # 
+#
+
+# 💵・Hatalarla Uğraşmak İstemiyorsanız Satın Alabilirsiniz
+https://www.itemsatis.com/discord/image-stealer-bot-1741355.html
+
+https://www.itempazar.com/discord-uye-nitro-sunucu/image-stealer-bot-109928
+# 
+#
 
 # 📝・ÖZELLİKLERİ
 🎄・**Full Ayarlamalı (Dil - Prefix) vs.**
 
 🎄・**Desteklenen Diller: (Fransıca - Almanca - İngilizce - Türkçe)**
 #
+#
 
 # 📞・İLETİŞİM
-💙・**Discord:** ArviS#0011
+💙・**Discord:** arvis.
 
 🔗・**Destek Sunucusu:** [Tıkla](https://discord.gg/3AfAFE5qYg)
 
 💜・**Instagram:** [Tıkla](https://www.instagram.com/arvis_here/)
+#
 #
 
 # 📷・GÖRSELLER
@@ -38,4 +48,8 @@
 ![Screenshot_10](https://user-images.githubusercontent.com/69751083/210534600-911670d4-8721-475e-a05e-0111c066272c.png)
 
 ![Screenshot_11](https://user-images.githubusercontent.com/69751083/210534608-4d91cffc-0a85-421d-80f4-7ba356e890e6.png)
+#
+#
 
+# ❗・NOT
+😙・Hata çözümleri için yardım istemeyin. Hatalar, "gerçekten bilgisi olupta çözebilenlerle kullansın" diye var. O yüzden "hataları söyler misin? Hatalar konusunda yardımcı olur musun?" gibi sorularla gelmeyin.
